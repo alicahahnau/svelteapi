@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
   import { navigate } from "svelte-routing";
   
-
+//test
   export let selectCocktail;
   let cocktails = [];
 
